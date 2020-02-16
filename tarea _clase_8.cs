@@ -13,8 +13,6 @@ namespace ConsoleApp10
             Random aleatorio = new Random();
             int dado = 0;
             int puntaje = 0;
-            int vidas = 0;
-            int cont_imp = 0;
             int turnos = 0;
             int cont10 = 0;
             int cont12 = 0;
